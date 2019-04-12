@@ -1,2 +1,2 @@
 # everyday-data
-Course file for Everyday Data Spring 2019
+Course files for Everyday Data Spring 2019
